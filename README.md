@@ -14,11 +14,13 @@ Problem 3. Perform conformational analysis for the following dihedral angles of 
 •	Dihedral angle formed by the carbons 3,4,5,6
 •	2D scan of the above two dihedral angles
 
-Problem 4. Calculate the vibrational spectrum of ethanol. Perform normal mode analysis and assign major peaks in the experimental spectrum(see figure 2) through comparisons.
-
 Figure 1: n-hexane
 
 ![nhexane](pic2.jpg)
+
+Problem 4. Calculate the vibrational spectrum of ethanol. Perform normal mode analysis and assign major peaks in the experimental spectrum(see figure 2) through comparisons.
+
+
 
 Figure 2: IR spectrum of ethanol
 
