@@ -27,3 +27,9 @@ Figure 2: IR spectrum of ethanol
 ![irspectrum](pic3.jpg)
 
 Problem 5. Read the attached study on ”The intrinsic reaction coordinate”. Perform IRC scans for the reactions described in the paper and draw comparisions.
+
+Problem 6. Formic acid (H-COOH) exists as a dimer in gas phase.
+(a) Obtain the structure for the dimer and
+(b) Provide an energetic basis for why it is found as dimers and not as monomers.
+
+Problem 6. Model the Diels-Alder reaction (including the transition state) between cyclopent-1,3-ene and ethene with HF method with STO-3G basis set and provide all important information.
