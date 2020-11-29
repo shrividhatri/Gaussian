@@ -5,7 +5,7 @@ Problem 1. Model the following reactions(Reactants, products, transition state a
 
 Problem 2. Calculate and plot the relative energies for the following C11H22 isomers
 
-
+![Screenshot](pic1.jpg)
  
 Problem 3. Perform conformational analysis for the following dihedral angles of n-hexane(see figure 1). Choose appropriate step sizes and identify various points of interest(staggered, eclipsed etc).
 •	Dihedral angle formed by the carbons 1,2,3,4
